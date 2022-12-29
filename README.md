@@ -4,7 +4,7 @@
 Tic-Tac-Toe game is a game played by millions of people on a daily basis.
 Using simple java functions and concepts I have tried to build the same.
 
-The main motivation behind making this project is to maintain the epitome legacy of Tic-Tac-Toe game which most of us had played during their school time.
+The main motivation behind making this project is to maintain the epitome legacy of Tic-Tac-Toe game which most of us had played during our school time.
 
 ## Technology Used
 
